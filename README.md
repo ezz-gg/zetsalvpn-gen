@@ -29,3 +29,5 @@ Zetsal VPN ACCOUNT AUTO REGISTER
 ### 1 Go to Zetsal VPN settings and 'Uninstall
 
 ### 2 Reinstall
+
+## つっくん(他人のクレカでherokuのdyno(60万)使うやつ)がこのコード使ったら本気で笑いますLOL
