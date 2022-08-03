@@ -30,4 +30,6 @@ Zetsal VPN ACCOUNT AUTO REGISTER
 
 ### 2 Reinstall
 
+
+
 ## つっくん(他人のクレカでherokuのdyno(60万)使うやつ)がこのコード使ったら本気で笑いますLOL
