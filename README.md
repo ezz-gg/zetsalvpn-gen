@@ -5,7 +5,7 @@ Zetsal VPN ACCOUNT AUTO REGISTER
 
 ### npm i -g ts-node
 
-### npm i tesseract.js puppeteer nanoid
+### npm i
 
 
 ## 2 Run script
