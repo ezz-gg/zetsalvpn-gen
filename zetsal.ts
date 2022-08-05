@@ -56,5 +56,5 @@ async function puppeteer2(text: string, page: puppeteer.Page, browser: { close: 
     .then(() => (page.waitForSelector('body > .slim-mainpanel > .container > .alert > .btn')))
     .then(() => (page.click('body > .slim-mainpanel > .container > .alert > .btn')))
     .then(() => (browser.close()))
-    .then(() => (fs.writeFile('./zetsal.txt', `${username}:${password}`, function(){console.log(`Zetsal VPNアカウントの作成が完了しました\nUsername:Password\n${username}:${password}`)})));
+    .then(() => (fs.appendFile('./zetsal.txt', `${username}:${password}\n`, function(){console.log(`Zetsal VPNアカウントの作成が完了しました\nUsername:Password\n${username}:${password}`)})));
 };
