@@ -33,4 +33,4 @@ Zetsal VPN ACCOUNT AUTO REGISTER
 ## Servers
 ![servers](https://raw.githubusercontent.com/ezz-gg/zetsalvpn-gen/main/zetsalvpn-servers.png)
 
-## つっくん(他人のクレカでherokuのdyno(60万)使うやつ)がこのコード使ったら本気で笑いますLOL
+## つっくん(他人のクレカでherokuのdyno(60万)使おうとする奴)がこのコード使ったら本気で笑いますLOL
