@@ -23,6 +23,21 @@ Zetsal VPN ACCOUNT AUTO REGISTER
 
 ## 1IP = 1Account!!
 
+## How To Connect To Zetsal VPN
+
+### Windows
+
+#### https://zetsal.com/downloads/Zetsal%20VPN.zip
+
+### Open VPN ※ UserName@zetsal_us
+
+#### Windows/Linux
+
+##### https://zetsal.com/api/config?id=uxzu0x&token=8bc8de49696719bb8927e82e71d3e94a1234faf083ba726246eeb6934ff8c400&type=tap
+
+#### Android/IOS
+
+##### https://zetsal.com/api/config?id=uxzu0x&token=8bc8de49696719bb8927e82e71d3e94a1234faf083ba726246eeb6934ff8c400&type=tun
 
 ## How To Logout
 
